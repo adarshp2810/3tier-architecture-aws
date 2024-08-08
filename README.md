@@ -11,7 +11,8 @@ This project demonstrates the deployment of a three-tier architecture on AWS. Th
 
 ## Architecture Diagram
 
-![Three-Tier Architecture Diagram](path_to_diagram.png)
+![Three-Tier Architecture Diagram]![image](https://github.com/user-attachments/assets/f7659aeb-c3fd-44f4-90d5-dbbab8eaa876)
+
 
 ## Steps to Create the Architecture
 
